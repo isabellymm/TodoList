@@ -1,3 +1,9 @@
+
+
+![img-todo-list](https://github.com/isabellymm/todo/assets/96357748/9965722f-abce-4e52-9e46-217fff9f0741)
+
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
